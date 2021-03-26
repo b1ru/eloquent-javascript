@@ -1,20 +1,21 @@
 for (let i=1; i<=100; i++){
-    let msg = ""
+    let msg = "";
     if (i%3==0){
-        msg += "Fizz"
+        msg += "Fizz";
     }
     if (i%5==0){
-        msg += "Buzz"
+        msg += "Buzz";
     }
-    console.log(i + " " + msg)
+    console.log(i + " " + msg);
 }
 
-// book solution
-//  same with mine
-//  line 19 is elegant
-for (let n = 1; n <= 100; n++) {
-    let output = "";
-    if (n % 3 == 0) output += "Fizz";
-    if (n % 5 == 0) output += "Buzz";
-    console.log(output || n);
-  }
+function book_solution(){
+    // same as mine
+    // line 19 is elegant
+    for (let n = 1; n <= 100; n++) {
+        let output = "";
+        if (n % 3 == 0) output += "Fizz";
+        if (n % 5 == 0) output += "Buzz";
+        console.log(output || n);
+      }
+}
