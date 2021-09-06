@@ -2,32 +2,32 @@
 
 
 ### Chapter 2
-- [ ] Exercise 2.1
-- [ ] Exercise 2.2
-- [ ] Exercise 2.3
+- [x] Exercise 2.1
+- [x] Exercise 2.2
+- [x] Exercise 2.3
 
 ### Chapter 3
-- [ ] Exercise 3.1
-- [ ] Exercise 3.2
-- [ ] Exercise 3.3
+- [x] Exercise 3.1
+- [x] Exercise 3.2
+- [x] Exercise 3.3
 
 ### Chapter 4
-- [ ] Exercise 4.1
-- [ ] Exercise 4.2
-- [ ] Exercise 4.3
-- [ ] Exercise 4.4
+- [x] Exercise 4.1
+- [x] Exercise 4.2
+- [x] Exercise 4.3
+- [x] Exercise 4.4
 
 ### Chapter 5
-- [ ] Exercise 5.1
-- [ ] Exercise 5.2
-- [ ] Exercise 5.3
-- [ ] Exercise 5.4
+- [x] Exercise 5.1
+- [x] Exercise 5.2
+- [x] Exercise 5.3
+- [x] Exercise 5.4
 
 ### Chapter 6
-- [ ] Exercise 6.1
-- [ ] Exercise 6.2
-- [ ] Exercise 6.3
-- [ ] Exercise 6.4
+- [x] Exercise 6.1
+- [x] Exercise 6.2
+- [x] Exercise 6.3
+- [x] Exercise 6.4
 
 ### Chapter 7
 - [ ] Exercise 7.1
